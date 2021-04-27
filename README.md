@@ -11,7 +11,8 @@ GPA calculator written in Lua
 
 # How to get file path/directory
 1. Right click on your text file
-2. Highlight the text on the right of "Parenting Folder"
-3. paste the text onto the input and add one more "/"
+2. Click on properties
+3. Highlight the text on the right of "Parenting Folder"
+4. paste the text onto the input and add one more "/"
 5. After the "/" add the text file's name (for example: /example.txt)
 
